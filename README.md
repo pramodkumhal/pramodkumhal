@@ -19,7 +19,7 @@
 
 ---
 
-- 🌱 **Currently Learning**: *Machine Learning, Sklearn, and Python Libraries for Data Science.*
+- 🌱 **Currently Learning**: *Deep learning, Machine Learning, Flask, and Python Libraries for Data Science.*
 - 💬 **Ask me about**: *Data Science, Machine Learning, and Analytics.*
 - 📝 **Portfolio**: Coming Soon! *(Stay Tuned for Updates)*  
 - 📧 **Contact Me**: *pramodkumhal963@gmail.com*
