@@ -66,35 +66,6 @@ I'm a passionate learner with a strong interest in Data Science, Machine Learnin
 
 ---
 
-## 📊 Featured Projects
-
-### 🔍 Project 1: [Coming Soon]
-*Description of your best data science project*
-- Technologies used: Python, Pandas, Scikit-learn
-- Key features and achievements
-
-### 🤖 Project 2: [Coming Soon]
-*Description of your machine learning project*
-- Technologies used: Python, TensorFlow/PyTorch
-- Key features and achievements
-
-### 📈 Project 3: [Coming Soon]
-*Description of your data analysis project*
-- Technologies used: Python, Matplotlib, Seaborn
-- Key features and achievements
-
-> 💡 **Tip**: Check the pinned repositories below for more projects!
-
----
-
-## 📜 Certifications & Achievements
-
-- 🎓 [Add your certifications here - e.g., Coursera, DataCamp, etc.]
-- 🏆 [Add any achievements or competitions]
-- 📚 [Add relevant courses completed]
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
