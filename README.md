@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumhal</h1>
-<h3 align="center">A passionate learner and an aspiring enthusiast in Data Science</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=520&lines=Welcome+to+Pramod+Kumhal's+Profile!;Aspiring+Data+Scientist+%F0%9F%8D%83;Passionate+About+Machine+Learning+%E2%9C%A8;Exploring+AI+and+Analytics+🚀;Keen+Learner+|+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=520&lines=Welcome+to+Pramod+Kumhal's+Profile!;Aspiring+Data+Scientist+%F0%9F%93%8A;Passionate+About+Machine+Learning+%E2%9C%A8;Exploring+AI+and+Analytics+%F0%9F%9A%80;Keen+Learner+|+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <blockquote align="center">
- <i>"The best way to predict the future is to create it."</i>
+ <i>"The best way to predict the future is to create it." - Peter Drucker</i>
 </blockquote>
 
 <p align="left"> 
@@ -19,60 +19,117 @@
 
 ---
 
-- 🌱 **Currently Learning**: *Deep learning, Machine Learning, Flask, and Python Libraries for Data Science.*
-- 💬 **Ask me about**: *Data Science, Machine Learning, and Analytics.*
-- 📝 **Portfolio**: Coming Soon! *(Stay Tuned for Updates)*  
-- 📧 **Contact Me**: *pramodkumhal963@gmail.com*
+## 🚀 About Me
 
-<p align="center">
-  Passionate about transforming data into actionable insights. I enjoy solving complex problems and finding elegant solutions.
-</p>
+I'm a passionate learner with a strong interest in Data Science, Machine Learning, and AI. I enjoy transforming raw data into actionable insights and building models that solve real-world problems. Currently focused on expanding my knowledge in deep learning and natural language processing while strengthening my foundation in core data science tools and techniques.
+
+- 🌱 **Currently Learning**: Deep Learning, Natural Language Processing, Machine Learning Algorithms, Flask, Advanced Python Libraries
+- 🔭 **Currently Working On**: Building end-to-end ML projects and exploring neural networks
+- 💬 **Ask me about**: Data Science, Machine Learning, Python, Data Analysis, and Statistical Modeling
+- 📧 **Contact Me**: pramodkumhal963@gmail.com
+- 🎯 **Goal for 2025**: Contribute to open-source ML projects and build a comprehensive data science portfolio
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Technical Skills
+
+### Programming Languages
 <p align="left">
-<a href="https://twitter.com/kumhalpramod" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumhalpramod" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pramod-kumhal-034635312/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pramod Kumhal" height="30" width="40" /></a>
-<a href="https://instagram.com/pramod_.kumhal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod.kumhal___" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+### Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+### Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-</p>
+## 📊 Featured Projects
+
+### 🔍 Project 1: [Coming Soon]
+*Description of your best data science project*
+- Technologies used: Python, Pandas, Scikit-learn
+- Key features and achievements
+
+### 🤖 Project 2: [Coming Soon]
+*Description of your machine learning project*
+- Technologies used: Python, TensorFlow/PyTorch
+- Key features and achievements
+
+### 📈 Project 3: [Coming Soon]
+*Description of your data analysis project*
+- Technologies used: Python, Matplotlib, Seaborn
+- Key features and achievements
+
+> 💡 **Tip**: Check the pinned repositories below for more projects!
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
+## 📜 Certifications & Achievements
+
+- 🎓 [Add your certifications here - e.g., Coursera, DataCamp, etc.]
+- 🏆 [Add any achievements or competitions]
+- 📚 [Add relevant courses completed]
+
+---
+
+## 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodkumhal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodkumhal&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodkumhal&" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pramodkumhal&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodkumhal&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodkumhal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pramod-kumhal-034635312/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pramod Kumhal" height="30" width="40" /></a>
+<a href="https://twitter.com/kumhalpramod" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumhalpramod" height="30" width="40" /></a>
+<a href="https://instagram.com/pramod_.kumhal___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod.kumhal___" height="30" width="40" /></a>
+<a href="mailto:pramodkumhal963@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 <h4 align="center">Let's connect and build something amazing together! 🚀</h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
