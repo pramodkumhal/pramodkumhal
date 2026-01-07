@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pramod Kumhal</h1>
-<h3 align="center">Data Science | Machine Learning | Problem Solving</h3>
+<h3 align="center">Data Science • Machine Learning • Problem Solving</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=520&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Turning+Data+into+Decisions;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=520&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Turning+Data+into+Insights;Learning+by+Building"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="coding gif"/>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    width="420"
+    alt="coding animation"
+  />
 </p>
 
 <blockquote align="center">
@@ -14,21 +21,24 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pramodkumhal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=pramodkumhal&style=flat-square&color=0e75b6"
+    alt="profile views"
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m focused on **building real, end-to-end machine learning solutions**, not just running notebooks for screenshots.  
-I care about **data quality, evaluation metrics, model robustness, and deployment basics**.
+I focus on **practical machine learning**, not just running models for screenshots.  
+My interest is in **data understanding, feature engineering, evaluation, and real-world applicability**.
 
 - 🌱 Currently learning: **Deep Learning, NLP, Model Optimization**
-- 🔭 Working on: **ML pipelines, Kaggle-style modeling, Flask-based ML apps**
-- 💬 Ask me about: **ML models, feature engineering, evaluation, Python**
+- 🔭 Working on: **End-to-end ML projects & Flask-based ML apps**
+- 💬 Ask me about: **Python, ML models, EDA, evaluation metrics**
 - 📫 Email: **pramodkumhal963@gmail.com**
-- 🎯 2025 Goal: **Strong ML portfolio + Open-source contributions**
+- 🎯 2025 goal: **Strong ML portfolio + open-source contributions**
 
 ---
 
@@ -50,10 +60,10 @@ I care about **data quality, evaluation metrics, model robustness, and deploymen
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
 </p>
 
-### Frameworks & Tools
+### Tools & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -67,15 +77,27 @@ I care about **data quality, evaluation metrics, model robustness, and deploymen
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable Setup)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pramodkumhal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodkumhal&theme=tokyonight" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=pramodkumhal&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="github stats"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=pramodkumhal&theme=tokyonight"
+    alt="github streak"
+  />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumhal&layout=compact&theme=tokyonight" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumhal&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="top languages"
+  />
 </p>
 
 ---
@@ -83,7 +105,10 @@ I care about **data quality, evaluation metrics, model robustness, and deploymen
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkumhal&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkumhal&theme=tokyo-night&hide_border=true"
+    alt="contribution graph"
+  />
 </p>
 
 ---
@@ -108,15 +133,22 @@ I care about **data quality, evaluation metrics, model robustness, and deploymen
 ---
 
 ## 💡 Random Dev Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="dev quote"
+  />
 </p>
 
 ---
 
-<h3 align="center">Thanks for stopping by 🚀</h3>
-<h4 align="center">Build. Break. Learn. Repeat.</h4>
+<h3 align="center">Thanks for visiting 🚀</h3>
+<h4 align="center">Build real things. Learn deeply.</h4>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    alt="footer"
+  />
 </p>
