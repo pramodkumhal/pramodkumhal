@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pramodkumhal&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/pramodkumhal?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/pramodkumhal?label=Stars&style=flat-square&color=yellow" alt="stars" />
 </p>
 
 <div align="center">
@@ -87,7 +88,7 @@ I'm a passionate learner with a strong interest in **Data Science**, **Machine L
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodkumhal&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkumhal&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=pramodkumhal&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </p>
 
 <div align="center">
@@ -103,24 +104,120 @@ class PramodKumhal:
     def __init__(self):
         self.username = "pramodkumhal"
         self.role = "Aspiring Data Scientist"
+        self.location = "Pokhara, Nepal 🇳🇵"
         self.learning = ["Deep Learning", "NLP", "Neural Networks"]
         self.current_projects = ["End-to-End ML Pipeline", "AI Models"]
         self.skills = {
             "languages": ["Python", "C", "C++", "SQL"],
             "libraries": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch"],
-            "tools": ["Jupyter", "Git", "Flask", "VS Code"]
+            "tools": ["Jupyter", "Git", "Flask", "VS Code"],
+            "interests": ["Data Visualization", "Statistical Modeling", "AI/ML"]
         }
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
+    
+    def get_daily_knowledge(self):
+        return "Learning something new every day! 📚"
 
 me = PramodKumhal()
 me.say_hi()
+print(me.get_daily_knowledge())
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodkumhal&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkumhal&custom_title=Pramod's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pramodkumhal&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🔭 Currently working on building my portfolio with ML projects
+- 🌱 Writing about my learning journey in Data Science
+- 💡 Sharing insights on Machine Learning algorithms
+- 📊 Creating tutorials on data visualization
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💼 Skills Matrix
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Sklearn" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/pramodkumhal?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+  </a>
+</p>
+
+<!-- You can add specific repo cards here when you have projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pramodkumhal&repo=PROJECT_NAME&theme=radical)](https://github.com/pramodkumhal/PROJECT_NAME)
+-->
+
+---
+
+## 📫 How to Reach Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramod-kumhal-034635312/" target="_blank">
@@ -135,7 +232,23 @@ me.say_hi()
   <a href="mailto:pramodkumhal963@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/pramodkumhal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████████░░░░░   65.00%
+SQL          3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   17.30%
+Jupyter      2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   11.25%
+Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░   06.45%
+```
+<!--END_SECTION:waka-->
 
 ---
 
@@ -147,18 +260,52 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6aipox6ozct4mgkvy4fvdyiry&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 🐍 Watch My Contribution Graph Get Eaten!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pramodkumhal/pramodkumhal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pramodkumhal/pramodkumhal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pramodkumhal/pramodkumhal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
+
+## 📌 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pramodkumhal" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  </a>
+</p>
+
+---
+
+## 💖 Thanks for Visiting!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+</p>
 
 <h3 align="center">💫 Show some ❤️ by starring some repositories!</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
+
+---
+
+<div align="center">
+  Made with ❤️ by Pramod Kumhal
+  <br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
+</div>
