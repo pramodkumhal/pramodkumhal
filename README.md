@@ -77,31 +77,6 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
 
 ---
 
-## 📊 GitHub Stats (Stable Setup)
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=pramodkumhal&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="github stats"
-  />
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=pramodkumhal&theme=tokyonight"
-    alt="github streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkumhal&layout=compact&theme=tokyonight&cache_seconds=1800"
-    alt="top languages"
-  />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
