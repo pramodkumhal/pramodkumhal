@@ -31,11 +31,11 @@
 
 ## 🚀 About Me
 
-I focus on **practical machine learning**, not just running models for screenshots.  
+I'm learning **machine learning** the right way — building projects, understanding concepts, and solving problems.  
 My interest is in **data understanding, feature engineering, evaluation, and real-world applicability**.
 
 - 🌱 Currently learning: **Deep Learning, NLP, Model Optimization**
-- 🔭 Working on: **End-to-end ML projects & Flask-based ML apps**
+- 🔭 Working on: **End-to-end ML projects & Flask/FastAPI-based ML apps**
 - 💬 Ask me about: **Python, ML models, EDA, evaluation metrics**
 - 📫 Email: **pramodkumhal963@gmail.com**
 - 🎯 2025 goal: **Strong ML portfolio + open-source contributions**
@@ -49,6 +49,8 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### Data Science & ML
@@ -64,6 +66,9 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -72,6 +77,7 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </p>
 
