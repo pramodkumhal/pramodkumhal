@@ -34,11 +34,12 @@
 I'm learning **machine learning** the right way — building projects, understanding concepts, and solving problems.  
 My interest is in **data understanding, feature engineering, evaluation, and real-world applicability**.
 
-- 🌱 Currently learning: **Deep Learning, NLP, Model Optimization**
+- 🌱 Currently learning: **Deep Learning, NLP, Model Optimization, FastAPI**
 - 🔭 Working on: **End-to-end ML projects & Flask/FastAPI-based ML apps**
 - 💬 Ask me about: **Python, ML models, EDA, evaluation metrics**
 - 📫 Email: **pramodkumhal963@gmail.com**
-- 🎯 2025 goal: **Strong ML portfolio + open-source contributions**
+- 🌐 Portfolio: [pramodkumhal.com.np](https://pramodkumhal.com.np)
+- 🎯 2026 goal: **Building impactful ML projects + open-source contributions**
 
 ---
 
