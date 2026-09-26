@@ -37,8 +37,7 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
 - 🌱 Currently learning: **Deep Learning, NLP, Model Optimization, FastAPI**
 - 🔭 Working on: **End-to-end ML projects & Flask/FastAPI-based ML apps**
 - 💬 Ask me about: **Python, ML models, EDA, evaluation metrics**
-- 📫 Email: **pramodkumhal963@gmail.com**
-- 🌐 Portfolio: [pramodkumhal.com.np](https://pramodkumhal.com.np)
+- 📫 Email: **pramodkumhal369@gmail.com**
 - 🎯 2026 goal: **Building impactful ML projects + open-source contributions**
 
 ---
