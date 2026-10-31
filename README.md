@@ -38,6 +38,7 @@ My interest is in **data understanding, feature engineering, evaluation, and rea
 - 🔭 Working on: **End-to-end ML projects & Flask/FastAPI-based ML apps**
 - 💬 Ask me about: **Python, ML models, EDA, evaluation metrics**
 - 📫 Email: **pramodkumhal369@gmail.com**
+- 🌐 Website : [pramodkumhal.com.np](https://pramodkumhal.com.np/)
 - 🎯 2026 goal: **Building impactful ML projects + open-source contributions**
 
 ---
